@@ -1,0 +1,8 @@
+[2026-03-18 23:05:50] INFO - app_logger:111 - Info message - written plain to file, BLUE in terminal.
+[2026-03-18 23:05:50] SUCCESS - app_logger:112 - Success message - written plain to file, GREEN in terminal.
+[2026-03-18 23:05:50] WARNING - app_logger:113 - Warning message - written plain to file, YELLOW in terminal.
+[2026-03-18 23:05:50] ERROR - app_logger:114 - Error message - written plain to file, RED in terminal.
+[2026-03-18 23:18:51] ERROR - app_logger:33 - An error occurred: division by zero
+[2026-03-18 23:19:02] ERROR - app_logger:33 - An error occurred: division by zero
+[2026-03-18 23:19:11] ERROR - app_logger:33 - An error occurred: division by zero
+[2026-03-18 23:20:00] ERROR - app_logger:33 - An error occurred: division by zero
